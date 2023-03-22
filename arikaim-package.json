@@ -1,0 +1,14 @@
+{
+    "title": "Web3",
+    "name": "web3",
+    "version": "1.0.0",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/web3-library.git",
+    "description": "Maps library",
+    "files": [    
+        "web3.min.js"    
+    ],
+    "versions": {
+    },
+    "disabled": false
+}
