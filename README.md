@@ -3,8 +3,7 @@
 ![license: GPL3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 #### Included libs
-    * Web3  - Ethereum JavaScript API 
-      * !(https://web3js.readthedocs.io)
+    * Web3  - Ethereum JavaScript API [documentation](https://web3js.readthedocs.io)
   
   
 #### Requirements 
